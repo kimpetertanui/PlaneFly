@@ -2,12 +2,11 @@ package com.flyplanegame.planefly;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
-//import android.support.v7.app.AppCompatActivity;
 import ge.xordinate.xengine.EngineActivity;
 
 public class SplashScreen extends EngineActivity {
 
-    // Splash screen timer
+    // Splash screen timer in milliseconds
     private static int SPLASH_TIME_OUT = 2000;
 
     @Override
