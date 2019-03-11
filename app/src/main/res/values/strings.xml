@@ -4,5 +4,7 @@
 
     <string name="app_name">PlaneFly</string>
     <string name="splashImageDescription">PlaneFly</string>
+    <string name="intertistial_id">ca-app-pub-4536585142676162/8223025982</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
 
 </resources>

@@ -5,7 +5,7 @@ Save this file as res/values/games-games-ids.xml in your project.
 -->
 <resources>
     <string name="app_id">540098966973</string>
-    <string name="package_name">com.xordinate.xplane</string>
+    <string name="package_name">com.flyplanegame.planefly</string>
     <string name="achievement_open_birds">CgkIveugg9wPEAIQAg</string>
     <string name="achievement_half_of_way">CgkIveugg9wPEAIQAw</string>
     <string name="achievement_nice_jump">CgkIveugg9wPEAIQBA</string>

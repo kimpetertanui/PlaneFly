@@ -20,6 +20,6 @@ android {
 
 dependencies {
     implementation fileTree(include: ['*.jar', '*.arr'], dir: 'libs')
-    implementation 'com.google.android.gms:play-services-ads:15.0.1'
+    implementation 'com.google.android.gms:play-services-ads:17.1.1'
     implementation (name: 'xengine-release', ext:'aar')
 }
